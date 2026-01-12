@@ -1,0 +1,2 @@
+# Flight-Dynamics-Guidance-and-Control-of-a-Fixed-Wing-UAV-
+◦ Deriving the 6-DOF nonlinear and linearized flight-dynamics models of a fixed-wing UAV for longitudinal and lateral-directional motion. ◦ Designing a fixed-wing autopilot using trim conditions, linearization, and classical control methods. ◦ Developing waypoint-based guidance and trajectory following for autonomous fixed-wing navigation.
